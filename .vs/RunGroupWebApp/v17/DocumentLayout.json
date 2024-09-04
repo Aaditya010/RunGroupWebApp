@@ -1,0 +1,681 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\repository\\dasboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\repository\\dasboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\controllers\\racecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\controllers\\racecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\viewmodels\\createraceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\viewmodels\\createraceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\views\\race\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\views\\race\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\viewmodels\\createclubviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\viewmodels\\createclubviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\views\\club\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\views\\club\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\interfaces\\iracerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\interfaces\\iracerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\views\\race\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\views\\race\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\repository\\racerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\repository\\racerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\interfaces\\idasboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\interfaces\\idasboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\repository\\clubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\repository\\clubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\data\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\data\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\migrations\\20240830055825_nulladdressfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\migrations\\20240830055825_nulladdressfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\viewmodels\\editraceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\viewmodels\\editraceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\views\\race\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\views\\race\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\views\\race\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\views\\race\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\interfaces\\iclubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\interfaces\\iclubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\services\\photoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\services\\photoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\interfaces\\iphotoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\interfaces\\iphotoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\helpers\\cloudinarysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\helpers\\cloudinarysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|c:\\users\\aaditya\\source\\repos\\rungroupwebapp\\rungroupwebapp\\migrations\\20240829100633_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F9A408-E293-4855-BA4B-26E83894B74D}|RunGroupWebApp\\RunGroupWebApp.csproj|solutionrelative:rungroupwebapp\\migrations\\20240829100633_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "RunGroupWebApp\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAASwCwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T06:02:37.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "RunGroupWebApp\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T05:59:45.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "RunGroupWebApp\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T05:50:52.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "RunGroupWebApp\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T05:49:42.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RunGroupWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T11:17:03.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "RunGroupWebApp\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T08:55:46.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClubController.cs",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Controllers\\ClubController.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Controllers\\ClubController.cs",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Controllers\\ClubController.cs",
+              "RelativeToolTip": "RunGroupWebApp\\Controllers\\ClubController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:42:00.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "RunGroupWebApp\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T10:54:51.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DasboardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Repository\\DasboardRepository.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Repository\\DasboardRepository.cs",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Repository\\DasboardRepository.cs",
+              "RelativeToolTip": "RunGroupWebApp\\Repository\\DasboardRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIA8wBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T09:15:30.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RaceController.cs",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Controllers\\RaceController.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Controllers\\RaceController.cs",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Controllers\\RaceController.cs",
+              "RelativeToolTip": "RunGroupWebApp\\Controllers\\RaceController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwDwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:17:55.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateRaceViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\ViewModels\\CreateRaceViewModel.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\ViewModels\\CreateRaceViewModel.cs",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\ViewModels\\CreateRaceViewModel.cs",
+              "RelativeToolTip": "RunGroupWebApp\\ViewModels\\CreateRaceViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T05:58:51.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Views\\Race\\Create.cshtml",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Views\\Race\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Views\\Race\\Create.cshtml",
+              "RelativeToolTip": "RunGroupWebApp\\Views\\Race\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T10:19:42.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateClubViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\ViewModels\\CreateClubViewModel.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\ViewModels\\CreateClubViewModel.cs",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\ViewModels\\CreateClubViewModel.cs",
+              "RelativeToolTip": "RunGroupWebApp\\ViewModels\\CreateClubViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:16:21.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClaimsPrincipalExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\ClaimsPrincipalExtensions.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\ClaimsPrincipalExtensions.cs",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\ClaimsPrincipalExtensions.cs",
+              "RelativeToolTip": "RunGroupWebApp\\ClaimsPrincipalExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T04:56:31.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\appsettings.json",
+              "RelativeToolTip": "RunGroupWebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T10:41:04.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Views\\Club\\Index.cshtml",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Views\\Club\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Views\\Club\\Index.cshtml",
+              "RelativeToolTip": "RunGroupWebApp\\Views\\Club\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwCgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T06:24:20.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\ViewModels\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\ViewModels\\DashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\ViewModels\\DashboardViewModel.cs",
+              "RelativeToolTip": "RunGroupWebApp\\ViewModels\\DashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T10:25:17.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Views\\Race\\Index.cshtml",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Views\\Race\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Views\\Race\\Index.cshtml",
+              "RelativeToolTip": "RunGroupWebApp\\Views\\Race\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T08:49:11.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IRaceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Interfaces\\IRaceRepository.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Interfaces\\IRaceRepository.cs",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Interfaces\\IRaceRepository.cs",
+              "RelativeToolTip": "RunGroupWebApp\\Interfaces\\IRaceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:06:00.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "RunGroupWebApp\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T05:01:13.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RaceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Repository\\RaceRepository.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Repository\\RaceRepository.cs",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Repository\\RaceRepository.cs",
+              "RelativeToolTip": "RunGroupWebApp\\Repository\\RaceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:04:44.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Program.cs",
+              "RelativeToolTip": "RunGroupWebApp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:00:51.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IDasboardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Interfaces\\IDasboardRepository.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Interfaces\\IDasboardRepository.cs",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Interfaces\\IDasboardRepository.cs",
+              "RelativeToolTip": "RunGroupWebApp\\Interfaces\\IDasboardRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T09:13:37.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClubRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Repository\\ClubRepository.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Repository\\ClubRepository.cs",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Repository\\ClubRepository.cs",
+              "RelativeToolTip": "RunGroupWebApp\\Repository\\ClubRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:04:56.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "RunGroupWebApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAnwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:37:19.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "RunGroupWebApp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T10:38:23.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "RunGroupWebApp\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T05:10:10.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Data\\UserRoles.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Data\\UserRoles.cs",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Data\\UserRoles.cs",
+              "RelativeToolTip": "RunGroupWebApp\\Data\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:11:04.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Data\\Seed.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Data\\Seed.cs",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Data\\Seed.cs",
+              "RelativeToolTip": "RunGroupWebApp\\Data\\Seed.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAqwI4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:09:49.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "RunGroupWebApp\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:42:40.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240830055825_NullAddressFix.cs",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Migrations\\20240830055825_NullAddressFix.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Migrations\\20240830055825_NullAddressFix.cs",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Migrations\\20240830055825_NullAddressFix.cs",
+              "RelativeToolTip": "RunGroupWebApp\\Migrations\\20240830055825_NullAddressFix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T05:58:26.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Models\\AppUser.cs",
+              "RelativeToolTip": "RunGroupWebApp\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:51:17.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EditRaceViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\ViewModels\\EditRaceViewModel.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\ViewModels\\EditRaceViewModel.cs",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\ViewModels\\EditRaceViewModel.cs",
+              "RelativeToolTip": "RunGroupWebApp\\ViewModels\\EditRaceViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:17:25.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20240829100633_Identity.cs",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Migrations\\20240829100633_Identity.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Migrations\\20240829100633_Identity.cs",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Migrations\\20240829100633_Identity.cs",
+              "RelativeToolTip": "RunGroupWebApp\\Migrations\\20240829100633_Identity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:06:34.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RunGroupWebApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:55:26.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Views\\Race\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Views\\Race\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Views\\Race\\Delete.cshtml",
+              "RelativeToolTip": "RunGroupWebApp\\Views\\Race\\Delete.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T09:28:32.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Views\\Race\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Views\\Race\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Views\\Race\\Edit.cshtml",
+              "RelativeToolTip": "RunGroupWebApp\\Views\\Race\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T07:21:12.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IClubRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Interfaces\\IClubRepository.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Interfaces\\IClubRepository.cs",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Interfaces\\IClubRepository.cs",
+              "RelativeToolTip": "RunGroupWebApp\\Interfaces\\IClubRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:08:26.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PhotoService.cs",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Services\\PhotoService.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Services\\PhotoService.cs",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Services\\PhotoService.cs",
+              "RelativeToolTip": "RunGroupWebApp\\Services\\PhotoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:52:01.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IPhotoService.cs",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Interfaces\\IPhotoService.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Interfaces\\IPhotoService.cs",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Interfaces\\IPhotoService.cs",
+              "RelativeToolTip": "RunGroupWebApp\\Interfaces\\IPhotoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:47:54.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CloudinarySettings.cs",
+              "DocumentMoniker": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Helpers\\CloudinarySettings.cs",
+              "RelativeDocumentMoniker": "RunGroupWebApp\\Helpers\\CloudinarySettings.cs",
+              "ToolTip": "C:\\Users\\Aaditya\\source\\repos\\RunGroupWebApp\\RunGroupWebApp\\Helpers\\CloudinarySettings.cs",
+              "RelativeToolTip": "RunGroupWebApp\\Helpers\\CloudinarySettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:45:22.841Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
